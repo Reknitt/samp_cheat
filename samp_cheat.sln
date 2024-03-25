@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33027.164
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "samp_cheat", "samp_cheat.vcxproj", "{72FF35CC-E212-43B5-8497-F1BEEA49986D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{72FF35CC-E212-43B5-8497-F1BEEA49986D}.Debug|x64.ActiveCfg = Debug|x64
+		{72FF35CC-E212-43B5-8497-F1BEEA49986D}.Debug|x64.Build.0 = Debug|x64
+		{72FF35CC-E212-43B5-8497-F1BEEA49986D}.Debug|x86.ActiveCfg = Debug|Win32
+		{72FF35CC-E212-43B5-8497-F1BEEA49986D}.Debug|x86.Build.0 = Debug|Win32
+		{72FF35CC-E212-43B5-8497-F1BEEA49986D}.Release|x64.ActiveCfg = Release|x64
+		{72FF35CC-E212-43B5-8497-F1BEEA49986D}.Release|x64.Build.0 = Release|x64
+		{72FF35CC-E212-43B5-8497-F1BEEA49986D}.Release|x86.ActiveCfg = Release|Win32
+		{72FF35CC-E212-43B5-8497-F1BEEA49986D}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {571C8234-BAA9-4355-9F61-47DDB2C5A2B3}
+	EndGlobalSection
+EndGlobal
